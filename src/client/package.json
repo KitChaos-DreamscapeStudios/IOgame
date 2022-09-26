@@ -1,0 +1,18 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "I am learning localhost",
+  "main": "index.js",
+  "dependencies": {
+    "webpack": "^5.74.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "document.write(\"hello world\")"
+  },
+  "keywords": [
+    "fun"
+  ],
+  "author": "kit",
+  "license": "ISC"
+}
